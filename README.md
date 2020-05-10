@@ -13,7 +13,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ---
-### Tarvittavat komennot, joiden tiedostot eivät ole tässä mukana
-npm install -g create-react-app
-npm install react-router-dom
-yarn add zxcvbn isemail prop-types node-sass bootstrap
+### Tarvittavat komennot, joiden tiedostot eivät ole tässä mukana<br />
+npm install -g create-react-app<br />
+npm install react-router-dom<br />
+yarn add zxcvbn isemail prop-types node-sass bootstrap<br />
