@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28086371.chunk.css",
+    "main.js": "/static/js/main.d78c7eb7.chunk.js",
+    "main.js.map": "/static/js/main.d78c7eb7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20b9e64d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20b9e64d.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.4c64220c.chunk.js": "/static/js/2.4c64220c.chunk.js",
+    "static/js/2.4c64220c.chunk.js.map": "/static/js/2.4c64220c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2d1cf7a0693204069821ce002a512ee7.js": "/precache-manifest.2d1cf7a0693204069821ce002a512ee7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.28086371.chunk.css.map": "/static/css/main.28086371.chunk.css.map",
+    "static/js/2.4c64220c.chunk.js.LICENSE.txt": "/static/js/2.4c64220c.chunk.js.LICENSE.txt",
+    "static/media/Saksanpaimenkoiraline.png": "/static/media/Saksanpaimenkoiraline.c92a9e06.png",
+    "static/media/akitaline.png": "/static/media/akitaline.3e0c7281.png",
+    "static/media/bordercollieline.png": "/static/media/bordercollieline.8f2e1a09.png",
+    "static/media/kultainennoutajaline.png": "/static/media/kultainennoutajaline.f6135e5f.png",
+    "static/media/toyvillakoiraline.png": "/static/media/toyvillakoiraline.1525a705.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20b9e64d.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.4c64220c.chunk.js",
+    "static/css/main.28086371.chunk.css",
+    "static/js/main.d78c7eb7.chunk.js"
+  ]
+}
